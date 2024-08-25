@@ -1,7 +1,7 @@
 import Buttons from "./components/Buttons";
 import Table from "./components/Table";
 import Banner from "./components/Banner";
-import useState from "react";
+import { useState } from "react"; //does this need to be in brackets?
 import satData from "./components/satData";
 
 
